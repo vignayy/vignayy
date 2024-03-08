@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm vignay</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
+- 🔭 I'm currently a student
+- 🌱 I’m currently learning Web Development
+- ⚡ I've Done few projects on Android Development
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignayy&label=Profile%20views&color=0e75b6&style=flat" alt="vignayy" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignayy&" alt="vignayy" /></p>
